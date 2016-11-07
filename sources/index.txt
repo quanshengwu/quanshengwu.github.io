@@ -1,0 +1,31 @@
+.. githubmainpages documentation master file, created by
+   sphinx-quickstart on Mon Nov  7 15:21:43 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. _welcome:
+
+Welcome to QuanSheng Wu's main page!
+===========================================
+I am a computational physist, focusing on topological novel properties in condensed matter physics.
+
+.. image:: ./QSWu_Corsica.jpg
+   :scale: 40 %
+
+Taken in Corsica.
+
+Basic information
+=================
+
+`My Google Scholar <https://scholar.google.ch/citations?user=evj_I0UAAAAJ&hl=en>`_
+
+`My ResearchGate <https://www.researchgate.net/Quan_Sheng_Wu>`_
+
+
+My projects on github
+=====================
+
+WannierTools
+------------
+
+`WannierTools <http://quanshengwu.github.io/wannier_tools/>`_ is an open-source software package for topological novel materials investigation.
